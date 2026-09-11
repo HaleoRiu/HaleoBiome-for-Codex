@@ -1,0 +1,4 @@
+interface:
+  display_name: "HaleoBiome"
+  short_description: "Dynamic five-role microbiome downstream analysis"
+  default_prompt: "Use $haleobiome to plan and execute a microbiome analysis from my data and research requirements."
